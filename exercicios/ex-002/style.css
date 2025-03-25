@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body
+{background-color: rgb(189, 164, 212);
+font-family: sans-serif;}
+
+
+
+h1{color:white;
+text-transform: uppercase;}
+
+
+h2{color: rgb(47, 0, 92);}
+
+
+#principal{text-align: center; background-color: rgb(46, 1, 88);
+max-width: 600px;
+margin: auto;}
+
+.basico
+{color: green;
+text-transform: uppercase;}
+
+
+.intermediario
+{color: yellow;
+text-transform: uppercase;}
+
+
+.avancado
+{color: red;
+text-transform: uppercase;}
+
+
+.destaque{
+background-color: rgba(3, 3, 252, 0.589);
+max-width: 600px;
+text-align: center;
+margin: auto;
+padding: 10px;
+}
+
+
+main{background-color: aliceblue;
+padding: 10px;
+border-radius: 15px;
+box-shadow: 1px 1px 10px;
+max-width: 600px;
+margin: auto;
+}
