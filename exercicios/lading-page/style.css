@@ -116,7 +116,7 @@ transition: 0,3s all;
 }
 
 
-.bloco{flex-direction: column;}
+.bloco{}
 
 
 .bloco >h1{
